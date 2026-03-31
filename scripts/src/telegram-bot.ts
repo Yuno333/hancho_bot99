@@ -32,7 +32,7 @@ const START_KEYBOARD: TelegramBot.InlineKeyboardMarkup = {
   inline_keyboard: [
     [
       { text: "Join Channel", url: "https://t.me/HonchoAI" },
-      { text: "Support", url: "https://t.me/thebighancho" },
+      { text: "Support", url: "https://t.me/thebighoncho" },
     ],
   ],
 };
