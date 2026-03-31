@@ -16,7 +16,7 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const VIDEO_PATH = path.resolve(__dirname, "../assets/welcome.mp4");
 
 // ── Content ──────────────────────────────────────────────────────────────────
-const WELCOME_TEXT = `💰 Welcome to Hancho AI Signals 💰
+const WELCOME_TEXT = `💰 Welcome to Huncho AI Signals 💰
 
 Traders inside are already profiting daily.
  Now it’s your turn.
