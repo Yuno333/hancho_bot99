@@ -16,26 +16,23 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const VIDEO_PATH = path.resolve(__dirname, "../assets/welcome.mp4");
 
 // ── Content ──────────────────────────────────────────────────────────────────
-const WELCOME_TEXT = `💰Welcome to Bighoncho AI. 👋
+const WELCOME_TEXT = `💰 Welcome to Hancho AI Signals 💰
 
-Hundreds of traders are already profiting from our daily signals — you're one step away.
+Traders inside are already profiting daily — now it’s your turn.
 
-Set up your trading account now (takes 1 minute):
-https://affiliate.iqoption.net/redir/?aff=817038&aff_model=revenue&afftrack=
+🔸 85% AI-powered signals
+🔸 15-min quick setup
+🔸 24/7 support + live sessions
 
-🤖 85% Accurate AI-powered trading signal system
-✅ Complete setup guide with my personal 24/7 support
-🎥 Exclusive live trading sessions.
+⏳ Next signal drops soon… don’t miss it.
 
-Complete your setup in the next 15 minutes to catch today's signals.
-
-Less than 10 slots left, hit the button below 👇🏼`;
+⚠️ Less than 10 spots left — tap below to join now.`;
 
 const START_KEYBOARD: TelegramBot.InlineKeyboardMarkup = {
   inline_keyboard: [
     [
-      { text: "📢 Join Channel", url: "https://t.me/HonchoAI" },
-      { text: "💬 Support", url: "https://t.me/" },
+      { text: "Join Channel", url: "https://t.me/HonchoAI" },
+      { text: "Support", url: "https://t.me/thebighancho" },
     ],
   ],
 };
