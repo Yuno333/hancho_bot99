@@ -18,7 +18,8 @@ const VIDEO_PATH = path.resolve(__dirname, "../assets/welcome.mp4");
 // ── Content ──────────────────────────────────────────────────────────────────
 const WELCOME_TEXT = `💰 Welcome to Hancho AI Signals 💰
 
-Traders inside are already profiting daily — now it’s your turn.
+Traders inside are already profiting daily.
+ Now it’s your turn.
 
 🔸 85% AI-powered signals
 🔸 15-min quick setup
