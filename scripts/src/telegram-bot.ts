@@ -32,8 +32,8 @@ Traders inside are already profiting daily.
 const START_KEYBOARD: TelegramBot.InlineKeyboardMarkup = {
   inline_keyboard: [
     [
-      { text: "Join Channel", url: "https://t.me/HonchoAI" },
-      { text: "Support", url: "https://t.me/thebighoncho" },
+      { text: "Join Channel", url: "https://t.me/thehunchoAI" },
+      { text: "Support", url: "https://t.me/thebighunchoAI" },
     ],
   ],
 };
