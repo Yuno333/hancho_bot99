@@ -22,7 +22,7 @@ Traders inside are already profiting daily.
  Now it’s your turn.
 
 🔸 85% AI-powered signals
-🔸 15-min quick setup
+🔸 15-mi
 🔸 24/7 support + live sessions
 
 ⏳ Next signal drops soon… don’t miss it.
@@ -33,7 +33,7 @@ const START_KEYBOARD: TelegramBot.InlineKeyboardMarkup = {
   inline_keyboard: [
     [
       { text: "Join Channel", url: "https://t.me/thehunchoAI" },
-      { text: "Support", url: "https://t.me/thebighunchoAI" },
+      { text: "Support", url: "https://t.me/ThebighunchoAI" },
     ],
   ],
 };
